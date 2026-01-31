@@ -25,6 +25,9 @@ I design and develop firmware for embedded systems, bringing hardware to life th
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white)](https://www.freertos.org/)
 [![ARM](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://www.arm.com/products/silicon-ip-cpu)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+[![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://docs.espressif.com/projects/esp-idf/en/latest/)
 
 #### Protocols & Interfaces
 - **I2C** | **SPI** | **UART** | **CAN**
@@ -36,12 +39,12 @@ I design and develop firmware for embedded systems, bringing hardware to life th
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 [![OpenOCD](https://img.shields.io/badge/OpenOCD-000000?style=for-the-badge&logo=gnu&logoColor=white)](https://openocd.org/)
+[![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/development-tools/stm32cubeide.html)
+[![GDB](https://img.shields.io/badge/GDB-5C2D91?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/gdb/)
+[![Cppcheck](https://img.shields.io/badge/Cppcheck-1E8CBE?style=for-the-badge&logo=c&logoColor=white)](http://cppcheck.sourceforge.net/)
 
-- STM32CubeIDE / Keil µVision
 - Oscilloscope / Logic Analyzer
-- GDB Debugging
 
 ---
 
