@@ -31,8 +31,15 @@ I design and develop firmware for embedded systems, bringing hardware to life th
 - **DMA** | **Interrupts** | **Timers** | **ADC/DAC**
 
 #### Development Tools
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+[![OpenOCD](https://img.shields.io/badge/OpenOCD-000000?style=for-the-badge&logo=gnu&logoColor=white)](https://openocd.org/)
+
 - STM32CubeIDE / Keil µVision
-- Git / Version Control
 - Oscilloscope / Logic Analyzer
 - GDB Debugging
 
@@ -57,8 +64,8 @@ I design and develop firmware for embedded systems, bringing hardware to life th
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zissis-papadopoulos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zissis.papadopoulos@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO)
 
 ---
