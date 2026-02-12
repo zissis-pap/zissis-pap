@@ -25,6 +25,7 @@ I design and develop firmware for embedded systems, bringing hardware to life th
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white)](https://www.freertos.org/)
 [![ARM](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://www.arm.com/products/silicon-ip-cpu)
+[![RISC-V](https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=riscv&logoColor=white)](https://riscv.org/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 [![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://docs.espressif.com/projects/esp-idf/en/latest/)
@@ -49,8 +50,8 @@ I design and develop firmware for embedded systems, bringing hardware to life th
 [![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/development-tools/stm32cubeide.html)
 [![GDB](https://img.shields.io/badge/GDB-5C2D91?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/gdb/)
 [![Cppcheck](https://img.shields.io/badge/Cppcheck-1E8CBE?style=for-the-badge&logo=c&logoColor=white)](http://cppcheck.sourceforge.net/)
-
-- Oscilloscope / Logic Analyzer
+[![Logic Analyzer](https://img.shields.io/badge/Logic_Analyzer-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj5MYW48L3RleHQ+PC9zdmc+&logoColor=white)](https://en.wikipedia.org/wiki/Logic_analyzer)
+[![Opencode](https://img.shields.io/badge/Opencode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://opencode.ai/)
 
 ---
 
@@ -63,13 +64,7 @@ I design and develop firmware for embedded systems, bringing hardware to life th
 
 ---
 
-### 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zissis-pap&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/zissis-pap)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zissis-pap&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/zissis-pap?tab=repositories)
-
----
 
 ### 🔗 Connect With Me
 
