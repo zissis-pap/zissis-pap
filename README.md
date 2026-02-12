@@ -65,9 +65,9 @@ I design and develop firmware for embedded systems, bringing hardware to life th
 
 ### 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/zissis-pap)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zissis-pap&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/zissis-pap)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/zissis-pap?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zissis-pap&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/zissis-pap?tab=repositories)
 
 ---
 
